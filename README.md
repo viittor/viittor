@@ -1,8 +1,5 @@
 ### Hi there, i'm Victor 👋
 
-- I’m currently learning HTML, CSS, Javascript and starting in React.
-- I’m looking to collaborate on React Projects and trying to improve my hard skills.
-
 <div align="center">
   <a href="https://github.com/viittor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viittor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
