@@ -1,7 +1,8 @@
 ### Hi there, i'm Victor 👋
 
-#Thanks for visiting my profile! Visit https://viittor-portifolio.vercel.app/ to see my portfolio! 
-#Feel free to contact me and connect on Linkedin.
+##Thanks for visiting my profile! Visit https://viittor-portifolio.vercel.app/ to see my portfolio! 
+
+##Feel free to contact me and connect on Linkedin.
 
 <div align="center">
   <a href="https://github.com/viittor">
